@@ -16,3 +16,5 @@ print(type(True)) #el resultado que nos daria es un tipo booleano
   comentario en
   varias linea
 """
+
+print(type(print (f"{myvariable}, {my_int_variable}, {my_bool_variable} "))) # tipo NoneType
